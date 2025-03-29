@@ -19,7 +19,7 @@ public class Consola implements Ejecutable {
         return consola;
     }
 
-    @Override
+    //    @Override
     public void run( )
     {
         boolean flag = true;
@@ -28,7 +28,7 @@ public class Consola implements Ejecutable {
         MenuCatalogo menuCatalogo = null;
         MenuGestion menuGestion = null;
         MenuUbicacion menuUbicacion = null;
-        while( flag )
+        /*while( flag )
         {
             Menu.MenuConsola( );
             Menu.leerNombre( );
@@ -60,7 +60,7 @@ public class Consola implements Ejecutable {
                 ((SolicitaDatos)figura).leeDatos( );
                 Menu.calcula( figura );
             }
-        }
+        }*/
     }
 
     @Override

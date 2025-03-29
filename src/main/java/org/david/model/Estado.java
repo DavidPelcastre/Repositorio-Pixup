@@ -7,17 +7,17 @@ public class Estado {
     public Estado() {
     }
 
-    public Estado(int idEstado, String nombre) {
-        this.id = idEstado;
+    public Estado(int id, String nombre) {
+        this.id = id;
         this.nombre = nombre;
     }
 
-    public int getIdEstado() {
+    public int getId() {
         return id;
     }
 
-    public void setIdEstado(int idEstado) {
-        this.id = idEstado;
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getNombre() {
