@@ -1,19 +1,31 @@
 package org.david.vista;
 
+import org.david.interfaces.Ejecutable;
 public enum MenuCatalogo {
-    CATALOGO("Catálogo"),
-    PENDIENTE("Pendiente"),
-    SALIR("Salir");
+    GESTION(1),
+    PENDIENTE(2),
+    SALIR(3),
+    OPCION_ERRONEA(4);
 
-    private final String descripcion;
+    private final int id;
+    //private final Ejecutable ejecutable;
 
-    MenuCatalogo(String descripcion) {
-        this.descripcion = descripcion;
+    MenuCatalogo(int id) {
+        this.id = id;
     }
 
-
-
-    public String getDescripcion() {
-        return descripcion;
+    public int getId() {
+        return id;
     }
+
+    public static MenuCatalogo getById(int opcion) {
+        return switch (opcion) {
+            case 1 -> GESTION;
+            case 2 -> PENDIENTE;
+            case 3 -> SALIR;
+            default -> OPCION_ERRONEA;
+        };
+
+    }
+
 }
