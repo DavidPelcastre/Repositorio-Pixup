@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b38eb214-1d8a-4a1f-83df-dcf9114ff836" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/david/model/Catalogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/david/model/registrarUsuario/Colonia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/david/model/registrarUsuario/Estado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/david/model/registrarUsuario/Municipio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/david/util/UbicacionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/david/vista/EntidadFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/david/vista/Gestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/david/vista/GestionColonia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/david/vista/GestionEstado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/david/vista/GestionMunicipio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/david/vista/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/david/vista/ManejadorCatalogos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/david/vista/MenuCatalogos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/david/inicio/Inicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/david/inicio/Inicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/david/interfaces/Ejecutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/david/interfaces/Ejecutable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/david/model/Colonia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/david/model/Domicilio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/david/model/Domicilio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/david/model/Entidad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/david/model/Entidad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/david/model/Estado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/david/model/Municipio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/david/model/agregarDisco/Disco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/david/model/agregarDisco/Disco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/david/util/EntidadFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/david/util/ReadUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/david/util/ReadUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/david/vista/Consola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/david/vista/Consola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/david/vista/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/david/vista/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/david/vista/MenuCatalogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/david/vista/MenuCatalogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/david/vista/MenuConsola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/david/vista/MenuConsola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/david/vista/MenuGestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/david/vista/MenuGestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/david/vista/MenuUbicacion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/david/vista/Ventana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/david/vista/Ventana.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2vKRaOTrfDRzwO2iGfFKaf2tvCy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Inicio.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b38eb214-1d8a-4a1f-83df-dcf9114ff836" name="Changes" comment="" />
+      <created>1743891859356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743891859356</updated>
+    </task>
+    <servers />
+  </component>
+</project>

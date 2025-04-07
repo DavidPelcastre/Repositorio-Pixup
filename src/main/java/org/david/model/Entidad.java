@@ -1,6 +1,6 @@
 package org.david.model;
 
-import org.david.interfaces.SolicitarDatos;
+import org.david.model.registrarUsuario.Estado;
 
 public abstract class Entidad {
     protected int id;

@@ -1,5 +1,7 @@
 package org.david.model;
 
+import org.david.model.registrarUsuario.Colonia;
+
 public class Domicilio {
     private int id;
     private String calle;
